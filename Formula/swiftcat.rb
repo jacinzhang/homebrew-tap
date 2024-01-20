@@ -1,9 +1,9 @@
 class Swiftcat < Formula
   desc "CLI"
   homepage "https://github.com/jacinzhang/swiftcat"
-  url "https://github.com/jacinzhang/swiftcat/releases/download/0.0.1/0.0.1.tar.gz"
-  version "0.0.1"
-  sha256 "6502c461d6e8547c5566ebd1d5f48745a26f17e06ebde6094efaebbf6fa5fc2d"
+  url "https://github.com/jacinzhang/swiftcat/releases/download/0.0.2/0.0.2.tar.gz"
+  version "0.0.2"
+  sha256 "614d72ca1a2961db299e81ba2bf41b36b9f0e78227ff045e87b708db5496f52e"
   license ""
 
   def install
